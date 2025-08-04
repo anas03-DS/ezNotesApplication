@@ -50,6 +50,7 @@ Open in browser: http://localhost:8080/ezNotesApplication/
 
 ✍️ Author
 Mohammad Anas
+LinkedIn Profile and Video Link :- https://www.linkedin.com/feed/update/urn:li:activity:7358020947175526400/
 
 📃 License
 This project is licensed under the MIT License.
